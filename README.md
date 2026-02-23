@@ -50,15 +50,6 @@ Entorno local o plataforma de procesamiento compatible
 
 Los requisitos específicos se detallarán en futuras versiones.
 
-🚀 Uso básico
-
-Clonar el repositorio:
-
-git clone https://github.com/usuario/nombre-del-repositorio.git
-
-Configurar las rutas de las imágenes de entrada
-
-Ejecutar los scripts de corrección según el flujo definido
 
 🔄 Próximas mejoras
 
